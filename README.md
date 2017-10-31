@@ -1,22 +1,23 @@
 Multinomial Naive Bayes Classifier
+==================================
 
 Hanlin He, Tao Wang
 
 The Multinomial Naive Bayes Classifier is implemented in Java SE 1.8.
 
-Structure
+## Structure
 
-	There are two classes, 'Driver' and 'TrainAndTestNB'.
+There are two classes, 'Driver' and 'TrainAndTestNB'.
 
-	The 'english.txt' is used to contain all the stopwords.
+The 'english.txt' is used to contain all the stopwords.
 
-Compilation
+## Compilation
 
-	The easy way to compile is using javac to generate two classes from java source code.
+The easy way to compile is using javac to generate two classes from java source code.
 	
-Execution
+## Execution
 
-	We run the test on the first two, three, ... twenty folders of data. The results are listed below.
+We run the test on the first two, three, ... twenty folders of data. The results are listed below.
 	
 	2: The test accuracy is 0.9969463621879979
 	3: The test accuracy is 0.9945565586829528
@@ -40,4 +41,4 @@ Execution
 	
 Analysis of Testing Results
 
-	It is obvious that testing accuracy is decreasing when the number of folders increases.
+It is obvious that testing accuracy is decreasing when the number of folders increases.
