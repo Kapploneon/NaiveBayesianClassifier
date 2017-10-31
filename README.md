@@ -7,9 +7,9 @@ The Multinomial Naive Bayes Classifier is implemented in Java SE 1.8.
 
 ## Structure
 
-There are two classes, 'Driver' and 'TrainAndTestNB'.
+There are two classes, `Driver` and `TrainAndTestNB`.
 
-The 'english.txt' is used to contain all the stopwords.
+The `english.txt` is used to contain all the stopwords.
 
 ## Compilation
 
