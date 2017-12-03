@@ -1,8 +1,6 @@
 Multinomial Naive Bayes Classifier
 ==================================
 
-Hanlin He, Tao Wang
-
 The Multinomial Naive Bayes Classifier is implemented in Java SE 1.8.
 
 ## Structure
